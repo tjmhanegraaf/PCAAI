@@ -49,3 +49,8 @@ Rollout Policy + SL Policy Network -> Classification of Human Expert Positions
 -> Policy Gradient
 RL Policy Network -> Play self 
 -> Value Network (Regression)
+
+---Sources---
+https://medium.com/jim-fleming/running-tensorflow-on-kubernetes-ca00d0e67539
+https://www.tensorflow.org/get_started/
+
